@@ -12,7 +12,7 @@ This Bike Rental System is a Java-based application built using Object-Oriented 
 
 ## Setup:
 1. Clone the repository using:  
-   `git clone https://github.com/yourusername/bike-rental-system.git`
+   `git clone https://github.com/J-S-Nafeez/bike-rental-system.git`
 2. Compile and run the `Project.java` file to start the application.
 3. Follow the menu prompts to rent and return bikes.
 
